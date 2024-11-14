@@ -1,0 +1,5 @@
+#learned about pull
+push
+create new branch
+checkout another branch
+merge two branches
